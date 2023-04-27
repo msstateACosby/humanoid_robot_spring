@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    },
+    "bipedal": {
+        "checkpoints": [
+            {
+                "steps": 999893,
+                "file_path": "results\\with_spring\\bipedal\\bipedal-999893.onnx",
+                "reward": 191.44964599609375,
+                "creation_time": 1681359236.0415554,
+                "auxillary_file_paths": [
+                    "results\\with_spring\\bipedal\\bipedal-999893.pt"
+                ]
+            },
+            {
+                "steps": 1499900,
+                "file_path": "results\\with_spring\\bipedal\\bipedal-1499900.onnx",
+                "reward": 776.988467129794,
+                "creation_time": 1681364750.1759224,
+                "auxillary_file_paths": [
+                    "results\\with_spring\\bipedal\\bipedal-1499900.pt"
+                ]
+            },
+            {
+                "steps": 1999804,
+                "file_path": "results\\with_spring\\bipedal\\bipedal-1999804.onnx",
+                "reward": 1246.8018459743923,
+                "creation_time": 1681370057.3379214,
+                "auxillary_file_paths": [
+                    "results\\with_spring\\bipedal\\bipedal-1999804.pt"
+                ]
+            },
+            {
+                "steps": 2000084,
+                "file_path": "results\\with_spring\\bipedal\\bipedal-2000084.onnx",
+                "reward": 1168.6295074462892,
+                "creation_time": 1681370057.600922,
+                "auxillary_file_paths": [
+                    "results\\with_spring\\bipedal\\bipedal-2000084.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000084,
+            "file_path": "results\\with_spring\\bipedal.onnx",
+            "reward": 1168.6295074462892,
+            "creation_time": 1681370057.600922,
+            "auxillary_file_paths": [
+                "results\\with_spring\\bipedal\\bipedal-2000084.pt"
+            ]
+        }
+    }
+}

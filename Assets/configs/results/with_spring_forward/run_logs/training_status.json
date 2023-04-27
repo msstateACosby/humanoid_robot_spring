@@ -1,0 +1,65 @@
+{
+    "bipedal": {
+        "checkpoints": [
+            {
+                "steps": 499956,
+                "file_path": "results\\with_spring_forward\\bipedal\\bipedal-499956.onnx",
+                "reward": 0.06756513697259567,
+                "creation_time": 1681551291.0949507,
+                "auxillary_file_paths": [
+                    "results\\with_spring_forward\\bipedal\\bipedal-499956.pt"
+                ]
+            },
+            {
+                "steps": 999892,
+                "file_path": "results\\with_spring_forward\\bipedal\\bipedal-999892.onnx",
+                "reward": 0.36724968063175134,
+                "creation_time": 1681556246.9692132,
+                "auxillary_file_paths": [
+                    "results\\with_spring_forward\\bipedal\\bipedal-999892.pt"
+                ]
+            },
+            {
+                "steps": 1499949,
+                "file_path": "results\\with_spring_forward\\bipedal\\bipedal-1499949.onnx",
+                "reward": 0.3629091534785618,
+                "creation_time": 1681561218.3327131,
+                "auxillary_file_paths": [
+                    "results\\with_spring_forward\\bipedal\\bipedal-1499949.pt"
+                ]
+            },
+            {
+                "steps": 1999934,
+                "file_path": "results\\with_spring_forward\\bipedal\\bipedal-1999934.onnx",
+                "reward": 0.21707480381858552,
+                "creation_time": 1681566246.391715,
+                "auxillary_file_paths": [
+                    "results\\with_spring_forward\\bipedal\\bipedal-1999934.pt"
+                ]
+            },
+            {
+                "steps": 2351129,
+                "file_path": "results\\with_spring_forward\\bipedal\\bipedal-2351129.onnx",
+                "reward": 0.4197458509053733,
+                "creation_time": 1681570002.3521228,
+                "auxillary_file_paths": [
+                    "results\\with_spring_forward\\bipedal\\bipedal-2351129.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2351129,
+            "file_path": "results\\with_spring_forward\\bipedal.onnx",
+            "reward": 0.4197458509053733,
+            "creation_time": 1681570002.3521228,
+            "auxillary_file_paths": [
+                "results\\with_spring_forward\\bipedal\\bipedal-2351129.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

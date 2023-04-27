@@ -1,0 +1,65 @@
+{
+    "bipedal": {
+        "checkpoints": [
+            {
+                "steps": 499900,
+                "file_path": "results\\ppo\\bipedal\\bipedal-499900.onnx",
+                "reward": 444.03159887140447,
+                "creation_time": 1680583825.288269,
+                "auxillary_file_paths": [
+                    "results\\ppo\\bipedal\\bipedal-499900.pt"
+                ]
+            },
+            {
+                "steps": 999685,
+                "file_path": "results\\ppo\\bipedal\\bipedal-999685.onnx",
+                "reward": 630.7237447102865,
+                "creation_time": 1680587565.9697692,
+                "auxillary_file_paths": [
+                    "results\\ppo\\bipedal\\bipedal-999685.pt"
+                ]
+            },
+            {
+                "steps": 1499711,
+                "file_path": "results\\ppo\\bipedal\\bipedal-1499711.onnx",
+                "reward": 809.3948987148426,
+                "creation_time": 1680591227.8397686,
+                "auxillary_file_paths": [
+                    "results\\ppo\\bipedal\\bipedal-1499711.pt"
+                ]
+            },
+            {
+                "steps": 1999701,
+                "file_path": "results\\ppo\\bipedal\\bipedal-1999701.onnx",
+                "reward": 836.1946972438267,
+                "creation_time": 1680594984.480769,
+                "auxillary_file_paths": [
+                    "results\\ppo\\bipedal\\bipedal-1999701.pt"
+                ]
+            },
+            {
+                "steps": 2000120,
+                "file_path": "results\\ppo\\bipedal\\bipedal-2000120.onnx",
+                "reward": 832.9271571718414,
+                "creation_time": 1680594984.696271,
+                "auxillary_file_paths": [
+                    "results\\ppo\\bipedal\\bipedal-2000120.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000120,
+            "file_path": "results\\ppo\\bipedal.onnx",
+            "reward": 832.9271571718414,
+            "creation_time": 1680594984.696271,
+            "auxillary_file_paths": [
+                "results\\ppo\\bipedal\\bipedal-2000120.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

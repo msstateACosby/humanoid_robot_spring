@@ -1,0 +1,29 @@
+{
+    "bipedal": {
+        "checkpoints": [
+            {
+                "steps": 48393,
+                "file_path": "results\\with_spring_stiffness_50\\bipedal\\bipedal-48393.onnx",
+                "reward": 181.76566864723384,
+                "creation_time": 1681186103.39163,
+                "auxillary_file_paths": [
+                    "results\\with_spring_stiffness_50\\bipedal\\bipedal-48393.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 48393,
+            "file_path": "results\\with_spring_stiffness_50\\bipedal.onnx",
+            "reward": 181.76566864723384,
+            "creation_time": 1681186103.39163,
+            "auxillary_file_paths": [
+                "results\\with_spring_stiffness_50\\bipedal\\bipedal-48393.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "bipedal": {
+        "checkpoints": [
+            {
+                "steps": 2999874,
+                "file_path": "results\\with_spring_imu_again\\bipedal\\bipedal-2999874.onnx",
+                "reward": 3242.9126586914062,
+                "creation_time": 1681999530.396367,
+                "auxillary_file_paths": [
+                    "results\\with_spring_imu_again\\bipedal\\bipedal-2999874.pt"
+                ]
+            },
+            {
+                "steps": 3166252,
+                "file_path": "results\\with_spring_imu_again\\bipedal\\bipedal-3166252.onnx",
+                "reward": 4502.2735595703125,
+                "creation_time": 1682001386.515126,
+                "auxillary_file_paths": [
+                    "results\\with_spring_imu_again\\bipedal\\bipedal-3166252.pt"
+                ]
+            },
+            {
+                "steps": 3499953,
+                "file_path": "results\\with_spring_imu_again\\bipedal\\bipedal-3499953.onnx",
+                "reward": null,
+                "creation_time": 1682026176.6233377,
+                "auxillary_file_paths": [
+                    "results\\with_spring_imu_again\\bipedal\\bipedal-3499953.pt"
+                ]
+            },
+            {
+                "steps": 3999715,
+                "file_path": "results\\with_spring_imu_again\\bipedal\\bipedal-3999715.onnx",
+                "reward": 3800.254204644097,
+                "creation_time": 1682030033.295571,
+                "auxillary_file_paths": [
+                    "results\\with_spring_imu_again\\bipedal\\bipedal-3999715.pt"
+                ]
+            },
+            {
+                "steps": 4000154,
+                "file_path": "results\\with_spring_imu_again\\bipedal\\bipedal-4000154.onnx",
+                "reward": 3659.0848754882813,
+                "creation_time": 1682030033.7210722,
+                "auxillary_file_paths": [
+                    "results\\with_spring_imu_again\\bipedal\\bipedal-4000154.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 4000154,
+            "file_path": "results\\with_spring_imu_again\\bipedal.onnx",
+            "reward": 3659.0848754882813,
+            "creation_time": 1682030033.7210722,
+            "auxillary_file_paths": [
+                "results\\with_spring_imu_again\\bipedal\\bipedal-4000154.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

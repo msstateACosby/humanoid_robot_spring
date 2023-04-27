@@ -1,0 +1,29 @@
+{
+    "bipedal": {
+        "checkpoints": [
+            {
+                "steps": 1452,
+                "file_path": "results\\no_spring_still\\bipedal\\bipedal-1452.onnx",
+                "reward": 311.1808052062988,
+                "creation_time": 1681635026.9720814,
+                "auxillary_file_paths": [
+                    "results\\no_spring_still\\bipedal\\bipedal-1452.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1452,
+            "file_path": "results\\no_spring_still\\bipedal.onnx",
+            "reward": 311.1808052062988,
+            "creation_time": 1681635026.9720814,
+            "auxillary_file_paths": [
+                "results\\no_spring_still\\bipedal\\bipedal-1452.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
