@@ -6,3 +6,5 @@ In order to use this code, MuJoCo must be installed for the binary, and Unity ML
 
 The code is adapted from the following source: https://github.com/Balint-H/mj-unity-tutorial
 
+Video of trained robot without springs: https://youtu.be/UKGNxDeZn8I
+With Spring: https://youtu.be/IMJsgSnBCS8
